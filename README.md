@@ -1,6 +1,7 @@
 ## **Introduction**
 
 ### **Project Summary**
+![Screenshot 2024-12-03 001023](https://github.com/user-attachments/assets/ea599053-56c8-4adf-9a23-4856394cfee0)
 
 The project, named **littlelemon**, aims to create the Little Lemon website with five pages: Home, About, Booking, Menu, and Menu Item. The primary objectives include implementing a Menu page and a Menu Item page. The modifications involve altering various files such as **settings.py**, **urls.py**, **models.py**, **views.py**, **admin.py**, and HTML templates.
 
